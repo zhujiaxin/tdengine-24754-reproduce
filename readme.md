@@ -7,5 +7,5 @@
 
 tdengine version: 3.2.2.0 -docker
 
-tdengine client:3.2.2.0-windows
+tdengine client:3.2.2.0-windows  ps:liunx的驱动应该也有这个问题，有测试过。
 其他都在pom中。
